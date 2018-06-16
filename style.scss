@@ -211,12 +211,12 @@ img {
 }
 
 nav {
-  //clear:both;
-  //float: center;
+  clear:both;
+  float: center;
   margin-left:auto;
   margin-right:auto;
   display: table;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   margin-top: 10px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
