@@ -4,12 +4,26 @@ title: Experience
 permalink: /experience/
 ---
 
-Some information about you!
+### What Can I Do?
 
-### More Information
+I have the following areas of expertise:
 
-A place to include any other types of information that you'd like to include about yourself.
+* Reading and assimilating new information quickly, writing with clarity
+* Identifying patterns, connecting ideas, summarizing information
+* Designing curricula/lessons, preparing talks
+* Teaching and facilitating in both workshop-style and classroom settings
+* Leading discussions and meetings
+* One-on-one tutoring
 
-### Contact me
+### Meaningful Experience
 
-[email@domain.com](mailto:email@domain.com)
+* St. Olaf
+* AoH
+* Carpentries
+* UW Madison
+
+### Tools
+
+I am "conversationally" proficient in:
+
+Python, R/Rmarkdown, Git, Bash, HTCondor/DAGMan, HTML/CSS, Wordpress, Mac/Windows/Linux, SLURM, MediaWiki, Latex, SQL, Jekyll
