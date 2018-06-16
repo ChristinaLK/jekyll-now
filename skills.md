@@ -1,15 +1,22 @@
 ---
 layout: page
-title: Skills
+title: What can I do?
 permalink: /skills/
 ---
 
-Some information about you!
+### Expertise
 
-### More Information
+My greatest areas of expertise are:
 
-A place to include any other types of information that you'd like to include about yourself.
+* Reading and assimilating new information quickly, writing with clarity
+* Identifying patterns, connecting ideas, summarizing information
+* Designing curricula/lessons, preparing talks
+* Teaching and facilitating in both workshop-style and classroom settings
+* Leading discussions and meetings
+* One-on-one tutoring
 
-### Contact me
+### Tools
 
-[email@domain.com](mailto:email@domain.com)
+I am "conversationally" proficient in:
+
+Python, R/Rmarkdown, Git, Bash, HTCondor/DAGMan, HTML/CSS, Wordpress, Mac/Windows/Linux, SLURM, MediaWiki, Latex, SQL, Jekyll
