@@ -27,3 +27,5 @@ I have the following areas of expertise:
 I am "conversationally" proficient in:
 
 Python, R/Rmarkdown, Git, Bash, HTCondor/DAGMan, HTML/CSS, Wordpress, Mac/Windows/Linux, SLURM, MediaWiki, Latex, SQL, Jekyll
+
+<img src="images/logos/python-icon-200x200.png">
