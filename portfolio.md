@@ -6,17 +6,18 @@ permalink: /portfolio/
 
 ### Lessons and Teaching
 
-* [Shell Intro](http://swcarpentry.github.io/shell-novice/)
-* [Carpentries Instructor Training](https://swcarpentry.github.io/instructor-training/)
-* [Math Exam/Educational Resources Wiki](http://wiki.ubc.ca/Science:Math_Exam_Resources)
+* [Shell Intro](http://swcarpentry.github.io/shell-novice/) - contributor and editor
+* [Instructor Training for the Carpentries](https://carpentries.github.io/instructor-training/) - contributor and editor
+* [Math Exam/Educational Resources Wiki](http://wiki.ubc.ca/Science:Math_Exam_Resources) - contributor
+* [Introduction to SQL](https://speakerdeck.com/christinalk/data-carpentry-sql-introduction?slide=1) - author
 
 ### Talks
 
 * [HTCondor User Tutorial](https://speakerdeck.com/christinalk/htcondor-user-tutorial)
 * [Research Computing Taxonomy](https://speakerdeck.com/christinalk/research-computing-taxonomy)
-* [The Carpentries](https://speakerdeck.com/christinalk/a-different-kind-of-carpentry?slide=1)
-* [Best Practices for All](https://speakerdeck.com/christinalk/best-practices-for-all?slide=1)
 * [Data Story Slam]()
+* Introduction to [The Carpentries](https://carpentries.org/) <script async class="speakerdeck-embed" data-slide="1" data-id="95253f880090486cb4c7326543fe4f15" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 
 ### Papers
 
@@ -28,8 +29,7 @@ Will Thompson. *PRIMUS*, 26(7), 2016.
 * [Forbidden Configurations and Product Constructions](http://link.springer.com/article/10.1007/s00373-013-1365-1),
 with Richard Anstee, Attila Sali and Miguel Raggi.  
 *Graphs and Combinatorics*, 30(6), 2014.
-* [Obstacle Numbers of Graphs](http://link.springer.com/article/10.1007/s00454-009-9233-8) with Hannah Alpert and Josh Laison.  
-*Discrete and Computational Geometry*, 44(1), 2010.
+* [Obstacle Numbers of Graphs](http://link.springer.com/article/10.1007/s00454-009-9233-8) with Hannah Alpert and Josh Laison.  *Discrete and Computational Geometry*, 44(1), 2010.
 
 ### Code
 
