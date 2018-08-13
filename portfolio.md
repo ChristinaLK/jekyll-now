@@ -34,3 +34,4 @@ with Richard Anstee, Attila Sali and Miguel Raggi.
 ### Code
 
 * [Grad Student Algorithms Seminar](https://github.com/ChristinaLK/algorithms-seminar)
+* [Average Location Over Time](https://github.com/ChristinaLK/avg_location)

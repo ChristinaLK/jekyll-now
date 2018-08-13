@@ -8,7 +8,7 @@ permalink: /experience/
 
 I have the following areas of expertise:
 
-* Reading and assimilating new information quickly, identifying patterns, connecting ideas, 
+* Reading and assimilating new information quickly, identifying patterns, connecting ideas,
 * Summarizing information, writing with clarity
 * Designing curricula/lessons/workshops, preparing talks
 * Teaching in both workshop-style and classroom settings
@@ -47,7 +47,7 @@ care and are cared for. In this academy, all of us are teachers because all of u
 one another. And in this academy, all of us are students since all of us need to be cared for."
 
 * [St. Olaf College][olaf] (Northfield, MN)
-  * The liberal arts smorgasboard experience: played music (St. Olaf Band,
+  * At St. Olaf, I had the classic liberal arts smorgasboard: played music (St. Olaf Band,
     St. Olaf Orchestra), studied abroad (Budapest, Hungary), majored in math
     but took a variety of classes ([the Great Conversation][gc], French, English, philosophy, computer
     science), did research, and graduated summa cum laude.  
@@ -74,6 +74,9 @@ I am conversationally proficient* in:
 <br>
 <img class="logos" src="../images/logos/linux-mac-windows.jpg">
 </center>
+
+* where conversationally proficient means "knows enough to adapt examples
+to most purposes and given 1-2 months of using the tool, would be a near-expert
 
 [chtc]: http://chtc.cs.wisc.edu/
 [carpentries]: https://carpentries.org/
