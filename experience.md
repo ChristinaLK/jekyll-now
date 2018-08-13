@@ -8,29 +8,49 @@ permalink: /experience/
 
 I have the following areas of expertise:
 
-* Reading and assimilating new information quickly, writing with clarity
-* Identifying patterns, connecting ideas, summarizing information
-* Designing curricula/lessons, preparing talks
-* Teaching and facilitating in both workshop-style and classroom settings
-* Leading discussions and meetings
+* Reading and assimilating new information quickly, identifying patterns, connecting ideas, 
+* Summarizing information, writing with clarity
+* Designing curricula/lessons/workshops, preparing talks
+* Teaching in both workshop-style and classroom settings
+* Facilitating discussions and meetings
 * Coordinating community events and workshops
 * One-on-one tutoring
 
 ### Meaningful Experience
 
-* UW Madison
+* [Center For High Throughput Computing][chtc], University of Wisconsin - Madison (Madison, WI)
 
-* Carpentries
-As a Carpentries instructor, I have gained valuable cross-discipline experience: communicating difficult concepts to non-experts, developing skills in computing tools, collaborating with a team, and demonstrating my commitment to better computing skills by volunteering my time. My involvement with the Carpentries also introduced me to a unique professional community of people who care about research and computing, which is typically not found in a single university/lab/office. This community has introduced me to new ideas, tools, and job postings from off the beaten path.  
+* [The Carpentries][carpentries] (multiple locations)
+  * I have been privileged to contribute to the Carpentries community (first as Software
+    Carpentry, then Data Carpentry, then both together) over the course of several
+    years; first as a workshop instructor, then as a lesson developer and maintainer,
+    then as a community organizer, then as a trainer of other instructors, and finally
+    as a member of the Software Carpentry leadership team.  In these different roles,
+    I have gained a tremendous amount of experience, including:
+      * communicating difficult concepts to non-experts
+      * detailed event planning and coordination
+      * collaborating with a team
+      * community engagement, organization and governance
+      * lesson development
+      * training and experience in best pedagogical practices
+      * developing skills in computing tools
 
-* AoH
+* [Academy of Hope][aoh] (Washington, DC)
+  * During my year at Academy of Hope, I taught basic math and English to
+  aspiring GED and EDP adults.  I learned as much or more than my learners,
+  not only about preparing and delivering lessons, but about connecting with
+  others (regardless of background) and living in solidarity.  AoH's founders
+  put it best in the Hope's original mission statement:
+  > "Academy of Hope will be a school in which the main subject for everyone, teachers
+and students alike, is not reading, writing or math but hope. Hope comes only when we
+care and are cared for. In this academy, all of us are teachers because all of us can care for
+one another. And in this academy, all of us are students since all of us need to be cared for."
 
-* St. Olaf College, where I graduated summa cum laude with a Bachelor of
-Arts in mathematics, and also found time to study abroad in Budapest, Hungary, play and tour with the
-St. Olaf Band and St. Olaf Orchestra, and participate in a two-year great books program.  
-After graduation, I spent a year
-working at an adult education non-profit in Washington, DC, teaching adult basic education
-courses in math and writing.  
+* [St. Olaf College][olaf] (Northfield, MN)
+  * The liberal arts smorgasboard experience: played music (St. Olaf Band,
+    St. Olaf Orchestra), studied abroad (Budapest, Hungary), majored in math
+    but took a variety of classes ([the Great Conversation][gc], French, English, philosophy, computer
+    science), did research, and graduated summa cum laude.  
 
 ### Tools
 
@@ -54,3 +74,9 @@ I am conversationally proficient* in:
 <br>
 <img class="logos" src="../images/logos/linux-mac-windows.jpg">
 </center>
+
+[chtc]: http://chtc.cs.wisc.edu/
+[carpentries]: https://carpentries.org/
+[aoh]: http://aohdc.org/
+[olaf]: https://wp.stolaf.edu/
+[gc]: https://wp.stolaf.edu/great-conversation/

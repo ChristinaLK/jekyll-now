@@ -4,6 +4,7 @@ title: Selected Portfolio
 permalink: /portfolio/
 ---
 
+
 ### Lessons and Teaching
 
 * [Shell Intro](http://swcarpentry.github.io/shell-novice/) - contributor and editor
@@ -13,11 +14,10 @@ permalink: /portfolio/
 
 ### Talks
 
-* [HTCondor User Tutorial](https://speakerdeck.com/christinalk/htcondor-user-tutorial)
 * [Research Computing Taxonomy](https://speakerdeck.com/christinalk/research-computing-taxonomy)
-* [Data Story Slam]()
-* Introduction to [The Carpentries](https://carpentries.org/) <script async class="speakerdeck-embed" data-slide="1" data-id="95253f880090486cb4c7326543fe4f15" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-
+* [Data Story Slam](https://speakerdeck.com/christinalk/the-office-hours-data-conundrum)
+* [Introduction to The Carpentries](https://speakerdeck.com/christinalk/a-different-kind-of-carpentry)
+* [HTCondor User Tutorial](https://speakerdeck.com/christinalk/htcondor-user-tutorial)
 
 ### Papers
 
