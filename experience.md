@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-### What Can I Do?
+### How am I effective?  I can...
 
 * Read and assimilate new information quickly, identify patterns, connect ideas
 * Summarize information, write clearly
@@ -13,6 +13,9 @@ permalink: /experience/
 * Facilitate discussions and meetings
 * Organize community events and workshops
 * One-on-one tutoring and consulting
+
+<br>
+<center><img src="../images/header_nametag.jpeg" width="90%"></center>
 
 ### Selected Experience
 

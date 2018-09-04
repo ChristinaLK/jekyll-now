@@ -19,6 +19,9 @@ permalink: /portfolio/
 * [Introduction to The Carpentries](https://speakerdeck.com/christinalk/a-different-kind-of-carpentry)
 * [HTCondor User Tutorial](https://speakerdeck.com/christinalk/htcondor-user-tutorial)
 
+<br>
+<center><img src="../images/workshop.JPG" width="90%"></center>
+
 ### Papers
 
 * [From Exam to Education: The Math Exam/Education Resources Wiki](http://www.tandfonline.com/doi/full/10.1080/10511970.2015.1127301),
