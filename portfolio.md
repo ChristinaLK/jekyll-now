@@ -7,9 +7,9 @@ permalink: /portfolio/
 
 ### Lessons and Teaching
 
-* [Shell Intro](http://swcarpentry.github.io/shell-novice/) - contributor and editor
+* [Shell Intro](http://swcarpentry.github.io/shell-novice/) - past contributor and editor
 * [Instructor Training for the Carpentries](https://carpentries.github.io/instructor-training/) - contributor and editor
-* [Math Exam/Educational Resources Wiki](http://wiki.ubc.ca/Science:Math_Exam_Resources) - contributor
+* [Math Exam/Educational Resources Wiki](http://wiki.ubc.ca/Science:Math_Exam_Resources) - past contributor
 * [Introduction to SQL](https://speakerdeck.com/christinalk/data-carpentry-sql-introduction?slide=1) - author
 
 ### Talks

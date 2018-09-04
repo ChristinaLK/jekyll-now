@@ -6,15 +6,13 @@ permalink: /experience/
 
 ### What Can I Do?
 
-I have the following areas of expertise:
-
-* Reading and assimilating new information quickly, identifying patterns, connecting ideas,
-* Summarizing information, writing with clarity
-* Designing curricula/lessons/workshops, preparing talks
-* Teaching in both workshop-style and classroom settings
-* Facilitating discussions and meetings
-* Coordinating community events and workshops
-* One-on-one tutoring
+* Read and assimilate new information quickly, identify patterns, connect ideas
+* Summarize information, write clearly
+* Design curricula/lessons/workshops, prepare talks
+* Teach in both workshop-style and classroom settings
+* Facilitate discussions and meetings
+* Organize community events and workshops
+* One-on-one tutoring and consulting
 
 ### Meaningful Experience
 
@@ -75,8 +73,9 @@ I am conversationally proficient* in:
 <img class="logos" src="../images/logos/linux-mac-windows.jpg">
 </center>
 
-* where conversationally proficient means "knows enough to adapt examples
-to most purposes and given 1-2 months of using the tool, would be a near-expert
+* where conversationally proficient means "can use for basic (and some intermediate)
+use cases and (more importantly) knows enough about how the tool
+works to teach myself more about it when needed."
 
 [chtc]: http://chtc.cs.wisc.edu/
 [carpentries]: https://carpentries.org/
