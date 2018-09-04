@@ -17,38 +17,21 @@ permalink: /experience/
 ### Meaningful Experience
 
 * [Center For High Throughput Computing][chtc], University of Wisconsin - Madison (Madison, WI)
+  * Consulting and problem-solving around large-scale computing of all shapes
+  and sizes for a wide variety (60+ departments) of research.
 
 * [The Carpentries][carpentries] (multiple locations)
-  * I have been privileged to contribute to the Carpentries community (first as Software
-    Carpentry, then Data Carpentry, then both together) over the course of several
-    years; first as a workshop instructor, then as a lesson developer and maintainer,
-    then as a community organizer, then as a trainer of other instructors, and finally
-    as a member of the Software Carpentry leadership team.  In these different roles,
-    I have gained a tremendous amount of experience, including:
-      * communicating difficult concepts to non-experts
-      * detailed event planning and coordination
-      * collaborating with a team
-      * community engagement, organization and governance
-      * lesson development
-      * training and experience in best pedagogical practices
-      * developing skills in computing tools
+  * Many hats (instructor, instructor-trainer, lesson editor, community organizer and
+    leader) with an organization focused on inclusivity, community, and better data management /
+    computer skills / teacher training in the world of academic research.
 
 * [Academy of Hope][aoh] (Washington, DC)
-  * During my year at Academy of Hope, I taught basic math and English to
-  aspiring GED and EDP adults.  I learned as much or more than my learners,
-  not only about preparing and delivering lessons, but about connecting with
-  others (regardless of background) and living in solidarity.  AoH's founders
-  put it best in the Hope's original mission statement:
-  > "Academy of Hope will be a school in which the main subject for everyone, teachers
-and students alike, is not reading, writing or math but hope. Hope comes only when we
-care and are cared for. In this academy, all of us are teachers because all of us can care for
-one another. And in this academy, all of us are students since all of us need to be cared for."
+  * Instruction and program support for adults seeking to complete a high
+  school equivalence certification.
 
 * [St. Olaf College][olaf] (Northfield, MN)
-  * At St. Olaf, I had the classic liberal arts smorgasboard: played music (St. Olaf Band,
-    St. Olaf Orchestra), studied abroad (Budapest, Hungary), majored in math
-    but took a variety of classes ([the Great Conversation][gc], French, English, philosophy, computer
-    science), did research, and graduated summa cum laude.  
+  * The classic liberal arts smorgasboard: music, study abroad (Budapest, Hungary),
+  great books, math, and research.
 
 ### Tools
 
