@@ -20,7 +20,7 @@ permalink: /portfolio/
 * [HTCondor User Tutorial](https://speakerdeck.com/christinalk/htcondor-user-tutorial)
 
 <br>
-<center><img src="../images/workshop.JPG" width="90%"></center>
+<center><img src="../images/workshop.JPG" alt="A row of open laptops with people typing, viewed from the side" width="90%"></center>
 
 ### Papers
 

@@ -15,7 +15,7 @@ permalink: /experience/
 * One-on-one tutoring and consulting
 
 <br>
-<center><img src="../images/header_nametag.jpeg" width="90%"></center>
+<center><img src="../images/header_nametag.jpeg" alt="work nameplace with a picture of a woman, her name and title and five adjectives: curious, philosophical, sanguine, organizer, bibliophile" width="90%"></center>
 
 ### Selected Experience
 
