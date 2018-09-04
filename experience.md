@@ -14,7 +14,7 @@ permalink: /experience/
 * Organize community events and workshops
 * One-on-one tutoring and consulting
 
-### Meaningful Experience
+### Selected Experience
 
 * [Center For High Throughput Computing][chtc], University of Wisconsin - Madison (Madison, WI)
   * Consulting and problem-solving around large-scale computing of all shapes
